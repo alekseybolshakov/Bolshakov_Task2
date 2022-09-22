@@ -1,0 +1,41 @@
+{
+  "request": {
+    "type": "City",
+    "query": "London, United Kingdom",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "London",
+    "country": "United Kingdom",
+    "region": "City of London, Greater London",
+    "lat": "51.517",
+    "lon": "-0.106",
+    "timezone_id": "Europe/London",
+    "localtime": "2022-09-21 11:54",
+    "localtime_epoch": 1663761240,
+    "utc_offset": "1.0"
+  },
+  "current": {
+    "observation_time": "10:54 AM",
+    "temperature": 18,
+    "weather_code": 113,
+    "weather_icons": [
+      "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+    ],
+    "weather_descriptions": [
+      "Sunny"
+    ],
+    "wind_speed": 4,
+    "wind_degree": 170,
+    "wind_dir": "S",
+    "pressure": 1027,
+    "precip": 0,
+    "humidity": 60,
+    "cloudcover": 0,
+    "feelslike": 18,
+    "uv_index": 5,
+    "visibility": 10,
+    "is_day": "yes"
+  }
+}
